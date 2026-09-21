@@ -1,0 +1,5 @@
+C:/Users/Артем/Desktop/lab1osi/lab1/out/build/x64-debug/CMakeFiles/Creator.dir
+C:/Users/Артем/Desktop/lab1osi/lab1/out/build/x64-debug/CMakeFiles/Reporter.dir
+C:/Users/Артем/Desktop/lab1osi/lab1/out/build/x64-debug/CMakeFiles/MainApp.dir
+C:/Users/Артем/Desktop/lab1osi/lab1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Артем/Desktop/lab1osi/lab1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
