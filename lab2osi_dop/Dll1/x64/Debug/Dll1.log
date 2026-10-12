@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Артем\Desktop\lab2osi_dop\Dll1\dllmain.cpp(28,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\Users\Артем\Desktop\lab2osi_dop\Dll1\dllmain.cpp(34,19): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  (компиляция исходного файла "/dllmain.cpp")
+  
+     Создается библиотека C:\Users\Артем\Desktop\lab2osi_dop\lab2\x64\Debug\Dll1.lib и объект C:\Users\Артем\Desktop\lab2osi_dop\lab2\x64\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\Артем\Desktop\lab2osi_dop\lab2\x64\Debug\Dll1.dll
